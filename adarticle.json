@@ -13,7 +13,7 @@
     {
       "id": "art_01",
       "title": "The Foundation: Graphic Design Without an Expensive PC",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art1.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art1.png",
       "category": "Basics",
       "content": {
         "introduction": "Photo editing is often thought to require a high-spec computer and expensive software subscriptions. This guide breaks down those barriers.",
@@ -27,7 +27,7 @@
     {
       "id": "art_02",
       "title": "Mastering the Layer System to Prevent Messy Edits",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art2.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art2.png",
       "category": "Basics",
       "content": {
         "introduction": "The ultimate key to clean and professional editing lies in how you organize design elements within your workspace.",
@@ -41,7 +41,7 @@
     {
       "id": "art_03",
       "title": "How to Isolate Objects Safely Using Magic Cut",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art3.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art3.png",
       "category": "Selection",
       "content": {
         "introduction": "Separating the main object from a distracting background is one of the most fundamental techniques in photo manipulation.",
@@ -55,7 +55,7 @@
     {
       "id": "art_04",
       "title": "The Art of Color Grading with Adjustment Layers",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art4.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art4.png",
       "category": "Coloring",
       "content": {
         "introduction": "Drastically shifting the mood of any photograph can be achieved simply by altering its saturation, brightness, and color balance.",
