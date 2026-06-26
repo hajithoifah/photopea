@@ -83,7 +83,7 @@
     {
       "id": "art_06",
       "title": "Understanding Blending Modes for Double Exposure Effects",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art6.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art6.png",
       "category": "Effects",
       "content": {
         "introduction": "Ever wondered how artists blend a human portrait silhouette seamlessly into a dense forest or city skyline? The secret is Double Exposure.",
@@ -97,7 +97,7 @@
     {
       "id": "art_07",
       "title": "Manipulating Digital Lighting via Linear Dodge Brush",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art7.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art7.png",
       "category": "Lighting",
       "content": {
         "introduction": "Adding realistic neon glows or magical sci-fi bursts to your composite photo requires absolute precision in lighting manipulation.",
@@ -111,7 +111,7 @@
     {
       "id": "art_08",
       "title": "Blemish Removal and Object Cleanup Using Healing Brushes",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art8.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art8.png",
       "category": "Retouching",
       "content": {
         "introduction": "Small imperfections like skin blemishes, dust specs, or unwanted background debris can quickly diminish the beauty of a photo.",
@@ -125,7 +125,7 @@
     {
       "id": "art_09",
       "title": "Non-Destructive Workflows: Hiding Pixels with Layer Masks",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art9.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art9.png",
       "category": "Advanced",
       "content": {
         "introduction": "Relying heavily on the Eraser Tool to trim elements is a critical beginner error, as deleted pixels are lost forever if you change your mind later.",
@@ -139,7 +139,7 @@
     {
       "id": "art_10",
       "title": "Crafting Hyper-Realistic Contact and Drop Shadows",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art10.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art10.png",
       "category": "Lighting",
       "content": {
         "introduction": "When compositing a new object onto a background, missing shadows break the illusion, making the element look fake and floaty.",
@@ -153,7 +153,7 @@
     {
       "id": "art_11",
       "title": "Using Perspective Transforms to Map Designs to Mockups",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art11.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art11.png",
       "category": "Advanced",
       "content": {
         "introduction": "Displaying your custom flat logo design on challenging surfaces like skewed t-shirts, curved mugs, or angled street billboards requires viewport distortion.",
@@ -167,7 +167,7 @@
     {
       "id": "art_12",
       "title": "Pixel-Perfect Tracing Control Using the Vector Pen Tool",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art12.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art12.png",
       "category": "Selection",
       "content": {
         "introduction": "When automated smart selection modes fail due to a chaotic background matrix, the Pen Tool is your ultimate weapon.",
@@ -181,7 +181,7 @@
     {
       "id": "art_13",
       "title": "Preserving Detail Assets via Smart Object Conversion",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art13.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art13.png",
       "category": "Basics",
       "content": {
         "introduction": "Scaling an imported image way down to fit a layout and later scaling it back up usually leaves it blurry, pixelated, and unusable.",
@@ -195,7 +195,7 @@
     {
       "id": "art_14",
       "title": "Final Mastering Touches via Camera Raw Grading Filters",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art14.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art14.png",
       "category": "Coloring",
       "content": {
         "introduction": "The subtle dividing line between a standard amateur composite and a high-tier professional image rests on the final color mastering phase.",
@@ -209,13 +209,13 @@
     {
       "id": "art_15",
       "title": "Exporting Your Artwork with the Ideal Format and Quality",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art15.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art15.png",
       "category": "Basics",
       "content": {
         "introduction": "Brilliant editing can go to waste if saved with incorrect file configurations that render your work pixelated or washed out online.",
-        "explanation": "Utilize PNG exports for sharp texts or when transparency must be retained. Choose JPG for rich photos with complex gradients to minimize weight.",
+        "explanation": "Utilize PNG exports for sharp texts or when transparency must be retained. Choose png for rich photos with complex gradients to minimize weight.",
         "preparation": "Double-check your entire canvas architecture and make sure no accidental layers are left visible.",
-        "how_to_use": "Head over to the top left corner, select File > Export As, and click on your target extension type (e.g., PNG or JPG).",
+        "how_to_use": "Head over to the top left corner, select File > Export As, and click on your target extension type (e.g., PNG or png).",
         "how_to_edit": "An export configuration screen will overlay. Crank the Quality slider to 100%. Review the pixel width and height boundaries, and finally click 'Save' to download your creation straight to local storage.",
         "conclusion": "Your digital masterpiece has officially left production and is fully optimized to be shared globally with the highest visual standard."
       }
