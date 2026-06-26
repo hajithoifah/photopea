@@ -13,7 +13,7 @@
     {
       "id": "art_01",
       "title": "The Foundation: Graphic Design Without an Expensive PC",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art1.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art1.jpg",
       "category": "Basics",
       "content": {
         "introduction": "Photo editing is often thought to require a high-spec computer and expensive software subscriptions. This guide breaks down those barriers.",
@@ -27,7 +27,7 @@
     {
       "id": "art_02",
       "title": "Mastering the Layer System to Prevent Messy Edits",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art2.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art2.jpg",
       "category": "Basics",
       "content": {
         "introduction": "The ultimate key to clean and professional editing lies in how you organize design elements within your workspace.",
@@ -41,7 +41,7 @@
     {
       "id": "art_03",
       "title": "How to Isolate Objects Safely Using Magic Cut",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art3.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art3.jpg",
       "category": "Selection",
       "content": {
         "introduction": "Separating the main object from a distracting background is one of the most fundamental techniques in photo manipulation.",
@@ -55,7 +55,7 @@
     {
       "id": "art_04",
       "title": "The Art of Color Grading with Adjustment Layers",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art4.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art4.jpg",
       "category": "Coloring",
       "content": {
         "introduction": "Drastically shifting the mood of any photograph can be achieved simply by altering its saturation, brightness, and color balance.",
@@ -69,7 +69,7 @@
     {
       "id": "art_05",
       "title": "Crafting Outstanding Text Effects for Social Media",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art5.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art5.jpg",
       "category": "Typography",
       "content": {
         "introduction": "Engaging typography is vital to instantly capture your audience's attention while they are scrolling through busy social media feeds.",
@@ -83,7 +83,7 @@
     {
       "id": "art_06",
       "title": "Understanding Blending Modes for Double Exposure Effects",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art6.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art6.jpg",
       "category": "Effects",
       "content": {
         "introduction": "Ever wondered how artists blend a human portrait silhouette seamlessly into a dense forest or city skyline? The secret is Double Exposure.",
@@ -97,7 +97,7 @@
     {
       "id": "art_07",
       "title": "Manipulating Digital Lighting via Linear Dodge Brush",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art7.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art7.jpg",
       "category": "Lighting",
       "content": {
         "introduction": "Adding realistic neon glows or magical sci-fi bursts to your composite photo requires absolute precision in lighting manipulation.",
@@ -111,7 +111,7 @@
     {
       "id": "art_08",
       "title": "Blemish Removal and Object Cleanup Using Healing Brushes",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art8.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art8.jpg",
       "category": "Retouching",
       "content": {
         "introduction": "Small imperfections like skin blemishes, dust specs, or unwanted background debris can quickly diminish the beauty of a photo.",
@@ -125,7 +125,7 @@
     {
       "id": "art_09",
       "title": "Non-Destructive Workflows: Hiding Pixels with Layer Masks",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art9.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art9.jpg",
       "category": "Advanced",
       "content": {
         "introduction": "Relying heavily on the Eraser Tool to trim elements is a critical beginner error, as deleted pixels are lost forever if you change your mind later.",
@@ -139,7 +139,7 @@
     {
       "id": "art_10",
       "title": "Crafting Hyper-Realistic Contact and Drop Shadows",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art10.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art10.jpg",
       "category": "Lighting",
       "content": {
         "introduction": "When compositing a new object onto a background, missing shadows break the illusion, making the element look fake and floaty.",
@@ -153,7 +153,7 @@
     {
       "id": "art_11",
       "title": "Using Perspective Transforms to Map Designs to Mockups",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art11.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art11.jpg",
       "category": "Advanced",
       "content": {
         "introduction": "Displaying your custom flat logo design on challenging surfaces like skewed t-shirts, curved mugs, or angled street billboards requires viewport distortion.",
@@ -167,7 +167,7 @@
     {
       "id": "art_12",
       "title": "Pixel-Perfect Tracing Control Using the Vector Pen Tool",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art12.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art12.jpg",
       "category": "Selection",
       "content": {
         "introduction": "When automated smart selection modes fail due to a chaotic background matrix, the Pen Tool is your ultimate weapon.",
@@ -181,7 +181,7 @@
     {
       "id": "art_13",
       "title": "Preserving Detail Assets via Smart Object Conversion",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art13.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art13.jpg",
       "category": "Basics",
       "content": {
         "introduction": "Scaling an imported image way down to fit a layout and later scaling it back up usually leaves it blurry, pixelated, and unusable.",
@@ -195,7 +195,7 @@
     {
       "id": "art_14",
       "title": "Final Mastering Touches via Camera Raw Grading Filters",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art14.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art14.jpg",
       "category": "Coloring",
       "content": {
         "introduction": "The subtle dividing line between a standard amateur composite and a high-tier professional image rests on the final color mastering phase.",
@@ -209,7 +209,7 @@
     {
       "id": "art_15",
       "title": "Exporting Your Artwork with the Ideal Format and Quality",
-      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art15.jpg",
+      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art15.jpg",
       "category": "Basics",
       "content": {
         "introduction": "Brilliant editing can go to waste if saved with incorrect file configurations that render your work pixelated or washed out online.",
