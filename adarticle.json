@@ -67,19 +67,19 @@
       }
     },
     {
-      "id": "art_05",
-      "title": "Crafting Outstanding Text Effects for Social Media",
-      "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art5.jpg",
-      "category": "Typography",
-      "content": {
-        "introduction": "Engaging typography is vital to instantly capture your audience's attention while they are scrolling through busy social media feeds.",
-        "explanation": "Combining raw text with layer styles like soft shadows, crisp borders, and smooth gradients injects a sense of depth that makes your words pop.",
-        "preparation": "Ensure you have established the correct canvas dimensions optimized for social media platforms.",
-        "how_to_use": "Tap the Type Tool (T icon on the left toolbar), click anywhere on your canvas, and type out your desired words.",
-        "how_to_edit": "Highlight your text to modify its font family and size in the top menu bar. Next, double-click the text layer in the panel to open the Layer Style window. Check 'Stroke' for a clean outline and 'Drop Shadow' for a professional depth effect.",
-        "conclusion": "Your text now boasts a premium look, making it fully ready to stand out on any modern digital platform."
-      }
-    },
+  "id": "art_05",
+  "title": "Crafting Outstanding Text Effects for Social Media",
+  "cover_image": "https://raw.githubusercontent.com/hajithoifah/photopea/main/images/art5.png",
+  "category": "Typography",
+  "content": {
+    "introduction": "Engaging typography is vital to instantly capture your audience's attention while they are scrolling through busy social media feeds.",
+    "explanation": "Combining raw text with layer styles like soft shadows, crisp borders, and smooth gradients injects a sense of depth that makes your words pop.",
+    "preparation": "Ensure you have established the correct canvas dimensions optimized for social media platforms.",
+    "how_to_use": "Tap the Type Tool (T icon on the left toolbar), click anywhere on your canvas, and type out your desired words.",
+    "how_to_edit": "Highlight your text to modify its font family and size in the top menu bar. Next, double-click the text layer in the panel to open the Layer Style window. Check 'Stroke' for a clean outline and 'Drop Shadow' for a professional depth effect.",
+    "conclusion": "Your text now boasts a premium look, making it fully ready to stand out on any modern digital platform."
+  }
+},
     {
       "id": "art_06",
       "title": "Understanding Blending Modes for Double Exposure Effects",
