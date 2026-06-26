@@ -1,0 +1,224 @@
+{
+  "ads_settings": {
+    "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "rewarded_ai_prompt_id": "ca-app-pub-3940256099942544/5224354917",
+    "rewarded_sticker_id": "ca-app-pub-3940256099942544/5224354917",
+    "native_onboarding_age_id": "ca-app-pub-3940256099942544/2247696110",
+    "native_onboarding_gender_id": "ca-app-pub-3940256099942544/2247696110",
+    "native_onboarding_language_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "articles": [
+    {
+      "id": "art_01",
+      "title": "The Foundation: Graphic Design Without an Expensive PC",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art1.jpg",
+      "category": "Basics",
+      "content": {
+        "introduction": "Photo editing is often thought to require a high-spec computer and expensive software subscriptions. This guide breaks down those barriers.",
+        "explanation": "Photopea is a 100% free web-based editor with features nearly identical to industry-standard software. All you need is a browser and an internet connection on your device.",
+        "preparation": "Open your preferred browser and go to photopea.com. You don't need to sign up or create an account; all features are instantly unlocked.",
+        "how_to_use": "Tap 'New Project' on the main page. Choose a built-in template that matches your needs, such as the standard Instagram Post layout (1080x1080 pixels), then tap 'Create'.",
+        "how_to_edit": "Familiarize yourself with the workspace. The Toolbar is on the left. To import an image from your gallery, go to File > Open More > Storage, or simply drag and drop the photo into the canvas.",
+        "conclusion": "You have successfully set up your first digital workspace without spending a single penny."
+      }
+    },
+    {
+      "id": "art_02",
+      "title": "Mastering the Layer System to Prevent Messy Edits",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art2.jpg",
+      "category": "Basics",
+      "content": {
+        "introduction": "The ultimate key to clean and professional editing lies in how you organize design elements within your workspace.",
+        "explanation": "Layers act like stacked transparent sheets. Editing an object on one layer will not alter or damage the elements residing on the layers beneath it.",
+        "preparation": "On the bottom right side of your screen, locate the Layers panel. If it is hidden, tap Window > Layers to bring it up.",
+        "how_to_use": "Whenever you want to add new text, shapes, or images, always tap the 'New Layer' icon (the folded paper icon at the bottom of the Layers panel) and double-click to rename it.",
+        "how_to_edit": "To change the stacking order of objects, tap and hold the selected layer, then drag it up or down. Use the Opacity slider at the top of the panel to control the element's transparency.",
+        "conclusion": "With disciplined layer management, even the most complex design projects become easy to control and modify at any time."
+      }
+    },
+    {
+      "id": "art_03",
+      "title": "How to Isolate Objects Safely Using Magic Cut",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art3.jpg",
+      "category": "Selection",
+      "content": {
+        "introduction": "Separating the main object from a distracting background is one of the most fundamental techniques in photo manipulation.",
+        "explanation": "The Magic Cut feature leverages artificial intelligence to automatically detect object edges, saving you hours of tedious manual tracing.",
+        "preparation": "Import the photo you want to crop into the workspace and ensure its layer is active and selected in the Layers panel.",
+        "how_to_use": "Tap Select > Magic Cut in the top menu bar. A new interface will open, splitting your screen into an editor on the left and an instant preview on the right.",
+        "how_to_edit": "Use the Green brush to mark parts of the object you want to keep, the Red brush for the background to remove, and the Grey brush for fuzzy transition boundaries like hair. Once the preview looks perfect, tap OK.",
+        "conclusion": "Your object is now completely isolated with a clean, transparent background, ready to be blended into new creative designs."
+      }
+    },
+    {
+      "id": "art_04",
+      "title": "The Art of Color Grading with Adjustment Layers",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art4.jpg",
+      "category": "Coloring",
+      "content": {
+        "introduction": "Drastically shifting the mood of any photograph can be achieved simply by altering its saturation, brightness, and color balance.",
+        "explanation": "Adjustment Layers allow you to modify the colors of your photo flexibly without permanently destroying the original pixels. This is called Non-Destructive Editing.",
+        "preparation": "Prepare a landscape photo or portrait shot on your main canvas.",
+        "how_to_use": "At the bottom of the Layers panel, tap the half-black, half-white circle icon (New Adjustment Layer) and select Hue/Saturation or Color Balance.",
+        "how_to_edit": "A new property panel will appear. Drag the Hue slider to alter the entire color spectrum, Saturation to intensify colors, and Lightness to manage exposure. You can toggle the eye icon on this layer anytime to view the original colors.",
+        "conclusion": "You can now craft cinematic or aesthetic color palettes freely without risking the quality of your source image."
+      }
+    },
+    {
+      "id": "art_05",
+      "title": "Crafting Outstanding Text Effects for Social Media",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art5.jpg",
+      "category": "Typography",
+      "content": {
+        "introduction": "Engaging typography is vital to instantly capture your audience's attention while they are scrolling through busy social media feeds.",
+        "explanation": "Combining raw text with layer styles like soft shadows, crisp borders, and smooth gradients injects a sense of depth that makes your words pop.",
+        "preparation": "Ensure you have established the correct canvas dimensions optimized for social media platforms.",
+        "how_to_use": "Tap the Type Tool (T icon on the left toolbar), click anywhere on your canvas, and type out your desired words.",
+        "how_to_edit": "Highlight your text to modify its font family and size in the top menu bar. Next, double-click the text layer in the panel to open the Layer Style window. Check 'Stroke' for a clean outline and 'Drop Shadow' for a professional depth effect.",
+        "conclusion": "Your text now boasts a premium look, making it fully ready to stand out on any modern digital platform."
+      }
+    },
+    {
+      "id": "art_06",
+      "title": "Understanding Blending Modes for Double Exposure Effects",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art6.jpg",
+      "category": "Effects",
+      "content": {
+        "introduction": "Ever wondered how artists blend a human portrait silhouette seamlessly into a dense forest or city skyline? The secret is Double Exposure.",
+        "explanation": "Blending Modes are mathematical instructions dictating how the color pixels of an upper layer interact with the layer directly underneath it.",
+        "preparation": "Load two separate images: a silhouette portrait against a clean white background, and a scenic nature texture layer stacked on top.",
+        "how_to_use": "Click on the top texture layer to ensure it is active.",
+        "how_to_edit": "Locate the dropdown menu labeled 'Normal' at the top of your Layers panel. Tap it and switch the mode to Screen or Multiply. Watch as the images instantly fuse together. Reposition using the Move Tool (V) for the ultimate composition.",
+        "conclusion": "By changing a single dropdown setting, you have converted two standard photos into a highly artistic masterpiece."
+      }
+    },
+    {
+      "id": "art_07",
+      "title": "Manipulating Digital Lighting via Linear Dodge Brush",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art7.jpg",
+      "category": "Lighting",
+      "content": {
+        "introduction": "Adding realistic neon glows or magical sci-fi bursts to your composite photo requires absolute precision in lighting manipulation.",
+        "explanation": "By combining an ultra-soft brush with a specialized blending mode, we can mimic physical light behavior digitally.",
+        "preparation": "Import your subject image into a canvas that has a darker or nighttime ambiance.",
+        "how_to_use": "Create a blank New Layer at the very top of your stack. Change its blending mode from Normal to Linear Dodge (Add).",
+        "how_to_edit": "Select the Brush Tool (B). Right-click the canvas to drop the Hardness down to 0% for a feathered brush. Choose a vivid color like electric neon blue or glowing yellow, then gently paint over areas where light should realistically bounce.",
+        "conclusion": "Your composition now exhibits dramatic, high-tier cinematic lighting common in premium movie posters."
+      }
+    },
+    {
+      "id": "art_08",
+      "title": "Blemish Removal and Object Cleanup Using Healing Brushes",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art8.jpg",
+      "category": "Retouching",
+      "content": {
+        "introduction": "Small imperfections like skin blemishes, dust specs, or unwanted background debris can quickly diminish the beauty of a photo.",
+        "explanation": "The Spot Healing Brush reads surrounding visual textures, blending the damaged area seamlessly with surrounding pixels without leaving digital traces.",
+        "preparation": "Select your main portrait or landscape layer and ensure it is unlocked in the panel.",
+        "how_to_use": "Locate the band-aid icon on the left toolbar, click and hold it, then select the Spot Healing Brush Tool.",
+        "how_to_edit": "Adjust the brush size to be slightly larger than the defect you want to erase. Tap or brush directly over the spot. The engine will instantly patch the target area while preserving natural skin texture.",
+        "conclusion": "Your images are now clean and flawless, boasting a polished finish that retains a totally natural look."
+      }
+    },
+    {
+      "id": "art_09",
+      "title": "Non-Destructive Workflows: Hiding Pixels with Layer Masks",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art9.jpg",
+      "category": "Advanced",
+      "content": {
+        "introduction": "Relying heavily on the Eraser Tool to trim elements is a critical beginner error, as deleted pixels are lost forever if you change your mind later.",
+        "explanation": "Layer Masks operate on a simple grayscale principle: painting with black hides pixels from view, whereas painting with white brings them back.",
+        "preparation": "Highlight the image layer you wish to trim down or blend smoothly at the edges.",
+        "how_to_use": "Tap the rectangle-and-circle icon (Add Raster Mask) at the base of the Layers panel. A white thumbnail square will bind next to your layer.",
+        "how_to_edit": "Equip the Brush Tool (B) and ensure your primary color is set to Black. Paint over the parts of the photo you want gone. If you over-erase, swap your brush color to White and paint back over that exact spot to restore the pixels.",
+        "conclusion": "You have successfully integrated an industry-standard workflow that guarantees safety against destructive accidental deletions."
+      }
+    },
+    {
+      "id": "art_10",
+      "title": "Crafting Hyper-Realistic Contact and Drop Shadows",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art10.jpg",
+      "category": "Lighting",
+      "content": {
+        "introduction": "When compositing a new object onto a background, missing shadows break the illusion, making the element look fake and floaty.",
+        "explanation": "Physical shadows consist of Contact Shadows (a dark, sharp compression line where the object touches a surface) and Drop Shadows (the softer, diffuse shape cast away from light source).",
+        "preparation": "Place a cropped asset (e.g., a product bottle) on top of your new background scene layer.",
+        "how_to_use": "Create a blank New Layer directly underneath your object to paint the shadows manually.",
+        "how_to_edit": "Select a soft Black Brush (B) with 0% Hardness. For the Contact Shadow, shrink your brush size and paint a thin, dark horizontal stroke precisely under the base. For the Drop Shadow, enlarge the brush, paint a subtle path trailing away from the implied ambient light, and slide the layer Opacity down to 30-40%.",
+        "conclusion": "Your object now sits perfectly grounded within its environment thanks to realistic shadow physics."
+      }
+    },
+    {
+      "id": "art_11",
+      "title": "Using Perspective Transforms to Map Designs to Mockups",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art11.jpg",
+      "category": "Advanced",
+      "content": {
+        "introduction": "Displaying your custom flat logo design on challenging surfaces like skewed t-shirts, curved mugs, or angled street billboards requires viewport distortion.",
+        "explanation": "The Perspective and Distort tools modify flat layouts, making them comply with three-dimensional depth paths of an underlying mockup image.",
+        "preparation": "Load an image of an empty street billboard as your master backdrop, then place your flat design poster on the layer above it.",
+        "how_to_use": "Click on the poster design layer and access Edit > Transform > Distort via the top menu bar.",
+        "how_to_edit": "Grab the anchor points (small squares) at each corner of the poster layer individually, mapping them directly onto the corresponding corners of the angled billboard. Hit Enter once the perspective aligns organically.",
+        "conclusion": "Your flat file asset now appears printed right onto the physical environment, convincing viewers of its reality."
+      }
+    },
+    {
+      "id": "art_12",
+      "title": "Pixel-Perfect Tracing Control Using the Vector Pen Tool",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art12.jpg",
+      "category": "Selection",
+      "content": {
+        "introduction": "When automated smart selection modes fail due to a chaotic background matrix, the Pen Tool is your ultimate weapon.",
+        "explanation": "The Pen Tool generates mathematically driven vector paths, guaranteeing smooth curves and sharp corners with zero jagged pixel artifacts.",
+        "preparation": "Zoom closely into the tricky or curved object edge you want to separate from its background.",
+        "how_to_use": "Select the Pen Tool (P) on the left sidebar. Ensure the upper setting mode dropdown is configured to Path instead of Shape.",
+        "how_to_edit": "Anchor your first point at the edge, click a second point further down, and hold-drag your cursor to morph the line into an organic curve matching the subject. Wrap the loop back to your starting point, right-click the line, choose 'Make Selection', and mask it out.",
+        "conclusion": "You have mastered the most respected design asset tool, paving the way for pristine, flawless extractions."
+      }
+    },
+    {
+      "id": "art_13",
+      "title": "Preserving Detail Assets via Smart Object Conversion",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art13.jpg",
+      "category": "Basics",
+      "content": {
+        "introduction": "Scaling an imported image way down to fit a layout and later scaling it back up usually leaves it blurry, pixelated, and unusable.",
+        "explanation": "Smart Objects protect your raster graphics inside an indestructible vector container, ensuring the engine always refers to its pristine native resolution.",
+        "preparation": "Right-click on any freshly imported image layer within your current document workspace stack.",
+        "how_to_use": "Select 'Convert to Smart Object' from the contextual pop-up menu. A micro-badge icon will appear over your layer thumbnail.",
+        "how_to_edit": "You are now free to shrink this layer drastically using Free Transform (Ctrl+Alt+T) to experiment with layouts, knowing you can upscale it back to full size anytime without destroying a single pixel of detail.",
+        "conclusion": "Your asset resolution integrity is now fully armored against degrading downscaling operations."
+      }
+    },
+    {
+      "id": "art_14",
+      "title": "Final Mastering Touches via Camera Raw Grading Filters",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art14.jpg",
+      "category": "Coloring",
+      "content": {
+        "introduction": "The subtle dividing line between a standard amateur composite and a high-tier professional image rests on the final color mastering phase.",
+        "explanation": "The Camera Raw Filter aggregates vital parameters like thermal white balance, micro-edge clarity, and local dynamics into a single dashboard.",
+        "preparation": "If your composition spans across numerous active layers, merge a clone onto a fresh top layer by pressing Ctrl+Alt+Shift+E.",
+        "how_to_use": "Select this unified layer and open the Filter > Camera Raw Filter window.",
+        "how_to_edit": "In the properties panel, boost the 'Clarity' slider slightly to expose crisp structural detail. Enhance 'Contrast' to amplify depth boundaries, and gently pull down the 'Vignette' slider to darken edge zones, locking the viewer’s eye to the center.",
+        "conclusion": "Your graphic immediately transforms from a loose assembly of layers into an intensely polished, cohesive image."
+      }
+    },
+    {
+      "id": "art_15",
+      "title": "Exporting Your Artwork with the Ideal Format and Quality",
+      "cover_image": "https://raw.githubusercontent.com/username/repo/main/images/art15.jpg",
+      "category": "Basics",
+      "content": {
+        "introduction": "Brilliant editing can go to waste if saved with incorrect file configurations that render your work pixelated or washed out online.",
+        "explanation": "Utilize PNG exports for sharp texts or when transparency must be retained. Choose JPG for rich photos with complex gradients to minimize weight.",
+        "preparation": "Double-check your entire canvas architecture and make sure no accidental layers are left visible.",
+        "how_to_use": "Head over to the top left corner, select File > Export As, and click on your target extension type (e.g., PNG or JPG).",
+        "how_to_edit": "An export configuration screen will overlay. Crank the Quality slider to 100%. Review the pixel width and height boundaries, and finally click 'Save' to download your creation straight to local storage.",
+        "conclusion": "Your digital masterpiece has officially left production and is fully optimized to be shared globally with the highest visual standard."
+      }
+    }
+  ]
+}
