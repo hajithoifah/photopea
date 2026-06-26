@@ -1,13 +1,13 @@
 {
   "ads_settings": {
-    "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-    "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-    "banner_id": "ca-app-pub-3940256099942544/6300978111",
-    "rewarded_ai_prompt_id": "ca-app-pub-3940256099942544/5224354917",
-    "rewarded_sticker_id": "ca-app-pub-3940256099942544/5224354917",
-    "native_onboarding_age_id": "ca-app-pub-3940256099942544/2247696110",
-    "native_onboarding_gender_id": "ca-app-pub-3940256099942544/2247696110",
-    "native_onboarding_language_id": "ca-app-pub-3940256099942544/2247696110"
+    "app_open_id": "ca-app-pub-6335103216414556/4993757635",
+    "interstitial_id": "ca-app-pub-6335103216414556/1405866411",
+    "banner_id": "ca-app-pub-6335103216414556/3168705921",
+    "rewarded_ai_prompt_id": "ca-app-pub-6335103216414556/2754607108",
+    "rewarded_sticker_id": "ca-app-pub-6335103216414556/2754607108",
+    "native_onboarding_age_id": "ca-app-pub-6335103216414556/9420087804",
+    "native_onboarding_gender_id": "ca-app-pub-6335103216414556/9420087804",
+    "native_onboarding_language_id": "ca-app-pub-6335103216414556/9420087804"
   },
   "articles": [
     {
